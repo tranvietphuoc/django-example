@@ -11,6 +11,7 @@ django = "==3.0.4"
 jedi = "*"
 django-cors-headers = "*"
 djangorestframework = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.8"
